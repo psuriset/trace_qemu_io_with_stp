@@ -20,3 +20,7 @@ Start  IO workloads on VM and start tracing reads/writes of qemu.
    for reads:
 
    stap bdrv_aio_readv.stp
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/psuriset/trace_qemu_io_with_stp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
